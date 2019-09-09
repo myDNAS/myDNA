@@ -34,7 +34,7 @@ __Lactose__ is a type of sugar in milk that is processed by an enzyme lactase in
 
 <center>
 
-![Lactose (In)tolerance.](D:/Projects_Helping/myDNA/myDNAS/myDNA_blog/myDNA_blog/img/lactoseI/li1.jpg){#id .class width=50% height=50%}
+![Lactose (In)tolerance.](https://github.com/JuliaHT/myDNA/blob/gh-pages/img/lactoseI/li1.jpg){#id .class width=50% height=50%}
 
 </center>
 
@@ -106,7 +106,7 @@ Your R session should look as follows:
 
 <center>
 
-![Lactose (In)tolerance.]( D:/Projects_Helping/myDNA/myDNAS/myDNA_blog/myDNA_blog/img/lactoseI/blog_post1.png)
+![loading myDNA package](https://github.com/JuliaHT/myDNA/blob/gh-pages/img/lactoseI/blog_post1.png){#id .class width=75% height=75%}
 
 </center>
 
