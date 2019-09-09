@@ -34,7 +34,7 @@ __Lactose__ is a type of sugar in milk that is processed by an enzyme lactase in
 
 <center>
 
-![Lactose (In)tolerance.](https://github.com/JuliaHT/myDNA/blob/gh-pages/img/lactoseI/li1.jpg)
+![Lactose (In)tolerance.](/myDNA/img/lactoseI/li1.jpg)
 
 </center>
 
