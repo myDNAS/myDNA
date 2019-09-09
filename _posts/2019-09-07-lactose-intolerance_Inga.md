@@ -34,7 +34,7 @@ __Lactose__ is a type of sugar in milk that is processed by an enzyme lactase in
 
 <center>
 
-![Lactose (In)tolerance.](https://github.com/JuliaHT/myDNA/blob/gh-pages/img/lactoseI/li1.jpg){#id .class width=50% height=50%}
+![Lactose (In)tolerance.](https://github.com/JuliaHT/myDNA/blob/gh-pages/img/lactoseI/li1.jpg =100x50)
 
 </center>
 
@@ -213,7 +213,7 @@ Indeed, I am lactose intolerant.
 I started to observe symptoms of intolerance more than three years ago. It took me a few months before I narrowed down my search and identified the culprit for my bloating problems. I do not process lactose well. Naturally, my first reaction was to eliminate all dairy products from my diet. This reduced my symptoms, but it did not remove them 100%.  I kept searching for the culprit…
 
 A year later, I read a chapter about lactose intolerance in the book written for athletes and trainers  about proper food habits. It stated that the majority of hormone pills and medications are filled with lactose. Startled, I removed hormone pills from my everyday use. 
-Whoa!!!! I was finally free of lactose-intolerance symptoms.
+__Whoa!!!! I was finally free of lactose-intolerance symptoms.__
 
 
 
@@ -333,9 +333,18 @@ You can also read scientific papers and follow their __literature__:
 <br />
 
 ## Appendix I: my full R code:
-[add figure here]
+
+<center>
+
+[![Shiny layout]({{ site.url }}https://github.com/JuliaHT/myDNA/blob/gh-pages/img/lactoseI/blog_post1.png)]({{ site.url }}https://github.com/JuliaHT/myDNA/blob/gh-pages/img/lactoseI/blog_post1.png)
+
+
+</center>
+
 
 <br />
+
+
 
 ## Appendix II: Details (sessionInfo) about analysis:
 [add figure here]
