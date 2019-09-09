@@ -34,7 +34,7 @@ __Lactose__ is a type of sugar in milk that is processed by an enzyme lactase in
 
 <center>
 
-![Lactose (In)tolerance.](D:/Projects_Helping/myDNA/myDNAS/myDNA_blog/myDNA_blog/img/lactoseI/li1.jpg){#id .class width=50% height=50%}
+![Lactose (In)tolerance.](https://github.com/JuliaHT/myDNA/blob/gh-pages/img/lactoseI/li1.jpg){#id .class width=50% height=50%}
 
 </center>
 
@@ -106,7 +106,7 @@ Your R session should look as follows:
 
 <center>
 
-![Lactose (In)tolerance.]( D:/Projects_Helping/myDNA/myDNAS/myDNA_blog/myDNA_blog/img/lactoseI/blog_post1.png)
+![loading myDNA package](https://github.com/JuliaHT/myDNA/blob/gh-pages/img/lactoseI/blog_post1.png){#id .class width=75% height=75%}
 
 </center>
 
@@ -123,12 +123,27 @@ importDNA("write-full-path-here")
 ```
 In your R script you should type something like:
 
-#----[add figure here]
+```{r}
+myGenome <- importDNA("/bla/Projects/myDNA/Data/MyHeritage/MyHeritage_raw_dna_dataInga/MyHeritage_raw_dna_data.csv")
 
-Now, my genome appeared as a variable in the R environment.
+```
+
+
+Now, my genome appeared as a variable in the R environment:
+
+<center>
+
+![loading myDNA package](https://github.com/JuliaHT/myDNA/blob/gh-pages/img/lactoseI/blog_post4.png)
+
+</center>
+
+<br /> 
+
+
+
 Notice, it has 720,816 rows and 4 columns.
-  
-  
+
+
   
 It means that 720,816 positions [(SNPs)](https://juliaht.github.io/myDNA//introduction) in my genome are genotyped (I “consumed” myHeritage DTC test). 
 
@@ -152,7 +167,15 @@ head(myGenome)
 ```
 It returns: 
 
-#-----------[import image]
+<br />
+
+<center>
+
+![Lactose (In)tolerance.](https://github.com/JuliaHT/myDNA/blob/gh-pages/img/lactoseI/blog_post3.png)
+
+</center>
+
+<br />
 
 The first row of myGenome data table can read as follows: SNP rs4477212 is located on chromosome 1, position 82154, and my genotype for it is AA.
 
