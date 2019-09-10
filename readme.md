@@ -1,35 +1,28 @@
+## Acknowodgments 
+Thanks Jacopo Rabolini for creating Emerald - a minimal theme created for Jekyll. 
+
+
 ## About
-Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
+We are:
+Participants at the Summer School of Science 2019 working on the myDNA project: 
+Balint Czako (Szegedi Radnoti Miklos Kiserleti Gimnazium), 
+Nikola Tričković (), 
+Kata Felfoldi (ELTE Trefort Agoston Gyakorlogimnazium), 
+Josip Duvnjak (II.gymnasium, Zagreb)
 
-![Emerald](/img/Emerald01.png "Emerald")
+Project leaders at the Summer School of Science 2019 working on the myDNA project: 
+Julia Hamblin-Trué (CODE University of Applied Sciences) & 
+Inga Patarčić (Berlin’s Institute for Molecular Systems Biology)
 
-## Setup & usage
-Emerald may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/KingFelix/emerald/archive/master.zip).
 
-After extracting the content from the folder into the selected directory, you can type ``jekyll serve`` from the terminal, than open your browser to ``0.0.0.0:4000/emerald/`` and you will find it there.
 
-Additionally it is possible to fork the repository and use Github Pages as hosting. By following this way it will be enough to change the ``baseurl`` value into the ``_config.yml`` file, with the directory name of your project (for example /blog) or simply with a "/" (slash) if you want install Emerald in the root.
+We do:
+Analyze myDNA was one of the projects at the Summer School of Science (S3++) camp in 2019
 
-### Branch
-Emerald has two branch: 
-- ``master``: is for developing pourpose.
-- ``gh-pages``: is only for demo site.  
+The main goal of the project was to make open source programme that analyzes the human genome - myDNA. myDNA R package that was developed as a part of the project provides information about genetic susceptibility to diseases and traits of interest. Programme is made in R programming language which is commonly used for research in genomics, biology, statistics and data analysis. In addition, we started this blog myDNA blog and developed minimal shiny app .
 
-### Baseurl
-Emerald was thought to be used mainly with Github, in particular into [project site](https://pages.github.com/). For this reason several tags have been included ``{{ site.baseurl }}`` to refer to the "/emerald/" directory.
-You can change the "baseurl" value into the ``config.yml`` file, to match your directory (for example "/blog/") or the root of your project. In that case you must set the "baseurl" value to "/".
 
-### Typography
-To maintain the vertical rhythm, it has been applied a **Typographic scale** as a modular scale, with a baseline set to 24px. To maintain this rhythm you need to insert elements like image, video or other contents with a 24px (or multiple) height as refer.
+What is the Summer School of Science?
+The story of the Summer School of Science started in 2001. In a small village Visnjan, in Istra in Croatia, a group of enthusiastic science educators founded this school. In 2010, the Summer School of Science expanded to Požega. This School has an entirely international character and so far has hosted more than 300 students from Croatia, Germany, France, Spain, Turkey, Lithuania, USA, Sri Lanka, and many other countries. The Summer School of Science is an educational scientific program targeted at highly motivated high school students. The main goal of the School is to give students an opportunity to work on real scientific projects and promote career ways related to the natural sciences. The School is divided into two camps(S3 and S3++) that take place in July and August each year. Around 50 students work in small groups of three or four people supervised by a mentor who is usually a PhD student or a postdoctoral researcher.
 
-Last but not least: the [Jekyll documentation](http://jekyllrb.com) is the best starting point! 
-
-## Author
-
-### Jacopo Rabolini
-
-- Web site: [www.jacoporabolini.com](http://www.jacoporabolini.com)
-- Google+: [+JacopoRabolini](https://plus.google.com/u/0/+JacopoRabolini/posts)
-
-## License
-Emerald is released under [MIT License](license.md).
+Source : https://drustvo-evo.hr/s3/index.html
