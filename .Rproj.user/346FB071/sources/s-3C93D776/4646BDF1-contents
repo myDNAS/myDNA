@@ -1,0 +1,43 @@
+# -------------------------------------------
+# install myDNA R package
+# -------------------------------------------
+
+  install.packages("BiocManager")
+  BiocManager::install("IngaPa/myDNAS")
+
+
+# -------------------------------------------
+# load myDNA R package
+# -------------------------------------------
+
+  library(myDNA)
+
+# -------------------------------------------
+# import your genome
+# -------------------------------------------
+
+  myGenome <- importDNA("D:/GoogleDrive/Projects/myDNA/Data/MyHeritage/MyHeritage_raw_dna_dataInga/MyHeritage_raw_dna_data.csv")
+
+    head(myGenome) # check your data
+
+# -------------------------------------------
+# screen genome for SNP of interest
+# -------------------------------------------
+
+    lactoseIntolerance(myGenome)
+
+# -------------------------------------------
+# define SNP of interest and identify corresponding genotype
+# -------------------------------------------
+
+# 1. define SNP of interest:
+# create dataframe by with SNP identifier and risk allele
+
+    SNP <- cbind(SNP="rs182549",riskAllele="C")
+
+# 2. identify corresponding genotype
+
+    myDNAScreenSNPS(myGenome,SNP)
+
+
+    sessionInfo()
