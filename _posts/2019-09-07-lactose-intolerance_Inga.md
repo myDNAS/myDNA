@@ -24,7 +24,7 @@ lastupdated: '2019-09-09'
   
 <br />
   
-## What is lactose intolerance??
+## What is lactose intolerance?
 
 The ability to digest lactose as an adult is called __lactase persistence__. Opposite to it, a digestive disease caused by lactose malabsorption is called __lactose intolerance__.
  
@@ -34,7 +34,7 @@ __Lactose__ is a type of sugar in milk that is processed by an enzyme lactase in
 
 <center>
 
-![Lactose (In)tolerance.](/myDNA/img/Emerald01.png)
+![gr](/myDNA/img/Emerald01.png)
 
 </center>
 
