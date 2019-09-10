@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1568033695468.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4646BDF1",
+    "lastKnownWriteTime" : 1567851518,
+    "last_content_update" : 1567851518,
+    "path" : "D:/Projects_Helping/myDNA/myDNAS/myDNA_blog/blog_myDNA_LactoseIntolerance_Post1.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "19,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
