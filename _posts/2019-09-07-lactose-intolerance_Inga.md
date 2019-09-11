@@ -32,11 +32,11 @@ __Lactose__ is a type of sugar in milk that is processed by an enzyme lactase in
 
 <br />
 
-<center>
 
-![gr](/myDNA/img/Emerald01.png)
 
-</center>
+![group_picture](/myDNA/img/project_group.jpg)
+
+
 
 <br />
 
