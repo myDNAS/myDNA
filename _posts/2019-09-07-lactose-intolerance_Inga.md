@@ -166,11 +166,11 @@ It returns:
 
 <br />
 
-The first row of myGenome data table can read as follows: SNP rs4477212 is located on chromosome 1, position 82154, and my genotype for it is AA.
+This results mean following:
+For example, the first row of myGenome data table can read: SNP rs4477212 is located on chromosome 1, position 82154, and my genotype for it is AA.
 
 
-The first row of myGenome data table can read as follows: SNP rs4477212 is located on chromosome 1, position 82154, and my genotype for it is AA.
-
+-------------------------------------------------------
 
 
 __Step 5. Perform myDNA lactose intolerance analysis__
@@ -188,7 +188,7 @@ lactoseIntolerance(myGenome)
 
  I got the following results:
  
-#-----------[import image]
+![rs4988235_results](/myDNA/img/blog_post7.png)
 
 
 __Step 6. Results interpretation__
@@ -280,7 +280,7 @@ myDNAScreenSNPS(myGenome,SNP)
 
 __Results again indicate that I am likely lactose intolerant:__
 
-[import image3]
+![rs182549_results](/myDNA/img/blog_post8.png)
 
 
 ## 7. Where can I find more info about lactose intolerance?
@@ -332,17 +332,18 @@ You can also read scientific papers and follow their __literature__:
 
 
 ## Appendix II: Details (sessionInfo) about analysis:
-[add figure here]
+![rs182549_results](/myDNA/img/sessionInfo_LI.png)
 
 
-
+<br />
 
 
 
 ## About author
 
-Inga Patarcic is a PhD Student at Berlin’s Institute for Molecular Systems Biology (BIMSB) in the Bioinformatics and Omics Data Science Group. Her major focus of research is gene regulation, disease biology and machine learning.  She is an author and initiator of the myDNA R package, shiny app and a blog. Previously, she worked in the field of population genetics (University of Zagreb, Croatia) , ancient DNA (University of Split, Croatia), biomedicine (University of Edinburgh, UK), and biospeleology (University of Ljubljana, Slovenia). She is an active storyteller, science educator, and … climber.
+Inga Patarcic is a PhD Student at Berlin’s Institute for Molecular Systems Biology (BIMSB) in the Bioinformatics and Omics Data Science Group. Her major focus of research is gene regulation, disease biology and machine learning.  She is an author and initiator of the [myDNA R package](https://github.com/IngaPa/myDNAS), [shiny app](https://github.com/IngaPa/myDNA_shinyApp) and this blog. Previously, she worked in the field of population genetics (University of Zagreb, Croatia) , ancient DNA (University of Split, Croatia), biomedicine (University of Edinburgh, UK), and biospeleology (University of Ljubljana, Slovenia). She is an active storyteller, science educator, and passionate climber.
 
+![rs182549_results](/myDNA/img/ip.jpg)
 
 ----------------------------------------------------------------------------
 
