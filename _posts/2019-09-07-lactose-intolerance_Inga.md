@@ -332,7 +332,7 @@ You can also read scientific papers and follow their __literature__:
 
 
 ## Appendix II: Details (sessionInfo) about analysis:
-![rs182549_results](/myDNA/img/sessionInfo_LI.png)
+![Inga Patarcic at the Long Night of Science event in Berlin](/myDNA/img/sessionInfo_LI.png)
 
 
 <br />
