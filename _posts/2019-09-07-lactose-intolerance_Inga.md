@@ -108,11 +108,8 @@ library(myDNA)
 
 Your R session should look as follows:
 
-<center>
-
 ![loading_myDNA_package](/myDNA/img/blog_post1.png)
 
-</center>
 
 <br /> 
  
