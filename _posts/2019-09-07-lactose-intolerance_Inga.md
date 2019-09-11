@@ -10,7 +10,7 @@ tags:
 - R-package
 lastupdated: '2019-09-09'
 ---
-<br />
+
  
   
 # IDEA 
@@ -32,15 +32,7 @@ __Lactose__ is a type of sugar in milk that is processed by an enzyme lactase in
 
 <br />
 
-
-
-
-
-
-
 ![Lactose_intolerance](/myDNA/img/li1.jpg)
-
-
 
 <br />
 
@@ -61,7 +53,8 @@ For example,  __rs4988235__ - also known as "C/T(-13910)" or just 13910T - is a 
 On this position in the genome, there are two possible alleles - C and T - and three possible genotypes CC, CT and TT.
 
 
-#Add image from SNPEDIA
+![Testing_your_SNPs_of_interest](/myDNA/img/bp_snp1.png)
+
  
 rs4988235(T) allele is associated with lactase persistence. In European populations, it is more common than rs4988235(C) allele. Individuals who have two T alleles in their genome can have TT or CT genotype and are likely able to digest milk. Individuals who have two C alleles, or CC genotype (rs4988235(C;C))  are likely to be lactose intolerant. 
 
@@ -70,7 +63,7 @@ Important to remember is that G pairs with C (and T pairs with A) in a molecule 
 Thus, individuals with two C alleles or two G alleles at rs4988235 are likely to be lactose intolerant.
 
  
-## How can I identify risk variants in my genome that are associated with [phenotype of interest] using myDNA R package?__
+## How can I identify risk variants in my genome that are associated with lactose intolerance using myDNA R package?__
 
 
 
@@ -132,11 +125,10 @@ myGenome <- importDNA("/bla/Projects/myDNA/Data/MyHeritage/MyHeritage_raw_dna_da
 
 Now, my genome appeared as a variable in the R environment:
 
-<center>
 
 ![loading_myDNA_package](/myDNA/img/blog_post4.png)
 
-</center>
+
 
 <br /> 
 
@@ -170,11 +162,7 @@ It returns:
 
 <br />
 
-<center>
-
 ![Results](/myDNA/img/blog_post3.png)
-
-</center>
 
 <br />
 
@@ -189,7 +177,7 @@ __Step 5. Perform myDNA lactose intolerance analysis__
 myDNA R package contains the lactoseIntolerance() function that for rs4988235 SNP extracts info about your genotype. By running lactoseIntolerance(myGenome) I got the following results:
 
 
-#-----------[import image]
+![lactoseIntolerance_Function](/myDNA/img/blog_post2.png)
 
 
 By running
@@ -274,7 +262,11 @@ Using myDNA functions, you can play more with your genome!
 For example, you can write your own piece of code to test your genome for other lactose-intolerance associated polymorphisms.
 
 Or, you can use myDNA function myDNAScreenSNPS() to identify any SNP of interest. 
-For example,  "G/A(-22018)" corresponds to  rs182549. I will screen my genome for rs182549 by running the following lines:
+For example,  "G/A(-22018)" corresponds to  rs182549. 
+
+![SNPedia_for_rs182549](/myDNA/img/bp_snp2.png)
+
+I will screen my genome for rs182549 by running the following lines:
 
 
 ```{r}
@@ -284,9 +276,7 @@ myDNAScreenSNPS(myGenome,SNP)
 
 ```
 
-[import image1]
-iN r
-[import image2]
+![Testing_your_SNPs_of_interest](/myDNA/img/blog_post5.png)
 
 __Results again indicate that I am likely lactose intolerant:__
 
@@ -335,13 +325,7 @@ You can also read scientific papers and follow their __literature__:
 
 ## Appendix I: my full R code:
 
-<center>
-
-[![Shiny layout]({{ site.url }}https://github.com/JuliaHT/myDNA/blob/gh-pages/img/lactoseI/blog_post1.png)]({{ site.url }}https://github.com/JuliaHT/myDNA/blob/gh-pages/img/lactoseI/blog_post1.png)
-
-
-</center>
-
+![Testing_your_SNPs_of_interest](/myDNA/img/blog_post6.png)
 
 <br />
 
