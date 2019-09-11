@@ -38,7 +38,7 @@ __Lactose__ is a type of sugar in milk that is processed by an enzyme lactase in
 
 
 
-![group_picture](/myDNA/img/project_group.jpg)
+![Lactose_intolerance](/myDNA/img/li1.jpg)
 
 
 
@@ -110,7 +110,7 @@ Your R session should look as follows:
 
 <center>
 
-![loading myDNA package](https://github.com/JuliaHT/myDNA/blob/gh-pages/img/lactoseI/blog_post1.png){#id .class width=75% height=75%}
+![loading_myDNA_package](/myDNA/img/blog_post1.png)
 
 </center>
 
@@ -137,7 +137,7 @@ Now, my genome appeared as a variable in the R environment:
 
 <center>
 
-![loading myDNA package](https://github.com/JuliaHT/myDNA/blob/gh-pages/img/lactoseI/blog_post4.png)
+![loading_myDNA_package](/myDNA/img/blog_post4.png)
 
 </center>
 
@@ -175,7 +175,7 @@ It returns:
 
 <center>
 
-![Lactose (In)tolerance.](https://github.com/JuliaHT/myDNA/blob/gh-pages/img/lactoseI/blog_post3.png)
+![Results](/myDNA/img/blog_post3.png)
 
 </center>
 
@@ -188,7 +188,7 @@ The first row of myGenome data table can read as follows: SNP rs4477212 is locat
 
 
 
-__Step 5. Perform myDNA [phenotype of interest] analysis__
+__Step 5. Perform myDNA lactose intolerance analysis__
 myDNA R package contains the lactoseIntolerance() function that for rs4988235 SNP extracts info about your genotype. By running lactoseIntolerance(myGenome) I got the following results:
 
 
