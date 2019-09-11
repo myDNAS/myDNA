@@ -2,14 +2,12 @@
 title: myDNA | A site to enable you to analyse your DNA
 description: "A blog about DNA analysis, build with Jekyll."
 url: "https://juliaht.github.io/myDNA/"
-
-
+author:
+  name: "Inga Patarcic"
+  email: inga.patarcic@gmail.com
+  
 # Build settings
-<<<<<<< HEAD
-baseurl: /emerald # Change this to your relative path (ex: /blog/), or leave just a /
-=======
 baseurl: /myDNA/ # Change this to your relative path (ex: /blog/), or leave just a /
->>>>>>> 9811c01e7a6cad67bc71a3fcc95aa25cbf96dfca
 markdown: kramdown
 source: .
 destination: ./_site
@@ -31,11 +29,8 @@ gems:
   - jekyll-paginate
 
 # Custom variables
-<<<<<<< HEAD
 version: "1.1.0"
-=======
-version: "1.0"
->>>>>>> 9811c01e7a6cad67bc71a3fcc95aa25cbf96dfca
+
 
 # Options
 custom_header: false
