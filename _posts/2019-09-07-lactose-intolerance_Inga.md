@@ -320,6 +320,7 @@ You can also read scientific papers and follow their __literature__:
 
 7. Tishkoff, S.A., Reed, F.A., Ranciaro, A., Voight, B.F., Babbitt, C.C., Silverman, J.S., Powell, K., Mortensen, H.M., Hirbo, J.B., Osman, M. and Ibrahim, M., 2007. Convergent adaptation of human lactase persistence in Africa and Europe. Nature genetics, 39(1), p.31.
 
+8. Swallow, D.M. and Troelsen, J.T., 2016. Escape from epigenetic silencing of lactase expression is triggered by a single-nucleotide change. Nature structural & molecular biology, 23(6), p.505.
 
 <br />
 
