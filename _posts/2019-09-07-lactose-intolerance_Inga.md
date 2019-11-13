@@ -344,6 +344,8 @@ You can also read scientific papers and follow their __literature__:
 
 Inga Patarcic is a PhD Student at Berlin’s Institute for Molecular Systems Biology (BIMSB) in the Bioinformatics and Omics Data Science Group. Her major focus of research is gene regulation, disease biology and machine learning.  She is an author and initiator of the [myDNA R package](https://github.com/IngaPa/myDNAS), [shiny app](https://github.com/IngaPa/myDNA_shinyApp) and this blog. Previously, she worked in the field of population genetics (University of Zagreb, Croatia) , ancient DNA (University of Split, Croatia), biomedicine (University of Edinburgh, UK), and biospeleology (University of Ljubljana, Slovenia). She is an active storyteller, science educator, and passionate climber.
 
+[contact](https://ingapa.github.io/online-cv//)
+
 ![Inga_Patarcic_at_the_Long_Night_of_Science_in_Berlin](/myDNA/img/ip.jpg)
 
 ----------------------------------------------------------------------------
