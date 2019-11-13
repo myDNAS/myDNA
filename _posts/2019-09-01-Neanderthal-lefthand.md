@@ -1,6 +1,8 @@
 --
-published: true
 title:  Were Neanderthals left-handed? S3++ Project in 2017 
+author: "Inga Patarcic"
+date: '2019-01-10'
+published: yes
 ---
 
 
