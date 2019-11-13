@@ -1,5 +1,5 @@
 ---
-title: "Identifying lactose intolerance using myDNA R package"
+title: "How-to identify lactose intolerance using myDNA R package?"
 author: "Inga Patarcic"
 date: '2019-09-09'
 published: yes
