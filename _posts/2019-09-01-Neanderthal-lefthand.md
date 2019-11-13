@@ -4,9 +4,8 @@ title:  Were Neanderthals left-handed? S3++ Project in 2017
 ---
 
 
-###This was our project at Summer School of Science in 2017 :-)
-
-Lovro Rabuzin, Réka Gyetvai, Julia Hamblin-Trué, Lukas Lorenz, Inga P
+This was our project at Summer School of Science in 2017 :-)
+For more details read our report
 
 # IDEA:
 
@@ -23,7 +22,8 @@ Neanderthals and the Denisovans have TT on this location in the genome, while or
 We identified that the number of left-handed individuals has been increasing with time, but the number of risk alleles for cognitive functions has stayed about the same. Finally, we determined that, based on genomic data from human ancestors, it should be possible to infer their characteristics, which don’t manifest on human remains and artefacts.
 
 
-# FULL REPORT HERE: [https://drustvo-evo.hr/s3/files/webreports/2017/Inga_report.pdf](https://drustvo-evo.hr/s3/files/webreports/2017/Inga_report.pdf)
+# FULL REPORT HERE: 
+[Report.pdf](https://drustvo-evo.hr/s3/files/webreports/2017/Inga_report.pdf)
 
 
 # Authors of report
