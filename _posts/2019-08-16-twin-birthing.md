@@ -1,6 +1,6 @@
 ---
 published: true
-title: How likely you are of having twins?
+title: WORK IN PROGRESS How likely you are of having twins?
 ---
 
 ### Here is a step-by-step guide to find it out
@@ -33,3 +33,6 @@ Sources: [https://genetics.thetech.org/ask-a-geneticist/twin-genetics](https://g
 		              [https://ghr.nlm.nih.gov/primer/traits/twins](https://ghr.nlm.nih.gov/primer/traits/twins)
 		 			  [https://www.sciencemag.org/news/2016/04/having-fraternal-twins-your-genes-and-your-hormonesfound](https://www.sciencemag.org/news/2016/04/having-fraternal-twins-your-genes-and-your-hormonesfound)
 gwastwin <- gwas[grep("twin", gwas$`DISEASE/TRAIT`), ]
+
+
+# AUTHOR: Josip
