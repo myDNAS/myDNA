@@ -1,6 +1,6 @@
 ---
 published: true
-title: Analyzing your DNA
+title: WORK IN PROGRESS Analyzing your DNA
 ---
 #### ANALYZING YOUR DNA
 
@@ -26,8 +26,4 @@ that is not always the case. There are plenty of articles written about the prob
 
 
 
-
-
-
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+#Author: KATA
