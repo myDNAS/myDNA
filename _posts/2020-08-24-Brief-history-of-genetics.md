@@ -38,7 +38,7 @@ Recently, in April 2020, I decided to search the web by googling the term “gen
 
 “Gene is a specific sequence of nucleotides in DNA or RNA that is located usually on a chromosome and that is the functional unit of inheritance controlling the transmission and expression of one or more traits by specifying the structure of a particular polypeptide and especially a protein or controlling the function of other genetic material.”
 
-#![Lactose_intolerance](/myDNA/img/li1.jpg)
+![The structure for deoxyribose nucleic acid (DNA) suggested by Watson and Crick in 1953 (Watson and Crick 1953).](/myDNA/img/DNA..jpg)
 
 <br />
 
@@ -68,5 +68,4 @@ Enhancers are the first regulatory DNA elements shown to be involved in differen
 # to be continued
 
 
-#![Lactose_intolerance](/myDNA/img/li1.jpg)
 
