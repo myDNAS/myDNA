@@ -1,3 +1,6 @@
+## Full blog link:
+https://mydnas.github.io/myDNA/
+
 ## About
 Thnx Emerald!
 
