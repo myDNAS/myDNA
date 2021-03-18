@@ -1,5 +1,5 @@
 ---
-title: "rs1815739 and what does it have to do with athletic performace"
+title: "rs1815739 and what does it have to do with athletic performace?"
 author: "Inga Patarcic"
 date: '2021-03-15'
 published: yes
