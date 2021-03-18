@@ -1,9 +1,9 @@
 ---
-title: S3+ 2017 project: Internet meets the human genome
+title: "S3+ 2017 project: Internet meets the human genome"
 author: "Inga Patarcic"
-date: '2019-19-08'
+date: '2019-08-08'
 published: yes
-lastupdated: '2019-09-09'
+lastupdated: '2019-08-08'
 ---
 
  
